@@ -11,7 +11,7 @@ OBJ = $(SRC:.c=.o)
 
 CC = cc
 
-CCFLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra -Werror
 	
 all : $(NAME)
 
@@ -19,7 +19,7 @@ $(NAME) : $(OBJ) ft_printf.h
 	ar -rcs $(NAME) $(OBJ)
 
 %.o: %.c
-    $(CC) $(FLAGS) -c $< -o $@
+	$(CC) $(FLAGS) -c $< -o $@
 
 
 clean :
