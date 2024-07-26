@@ -13,3 +13,8 @@ By replicating printf, we gain a deeper understanding of variadic functions, str
 1. Deepen understanding of variadic functions
 2. Implement complex string formatting
 3. Enhance low-level programming skills in C
+
+## Installation
+
+To try the ft_printf function : 
+git clone git@github.com:elodieiam/ft_printf.git
