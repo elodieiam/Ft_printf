@@ -15,6 +15,10 @@ By replicating printf, we gain a deeper understanding of variadic functions, str
 2. Implement complex string formatting
 3. Enhance low-level programming skills in C
 
+## Output 🖼️
+Here is a screenshot showing the output of ft_printf in action:
+![Capture d’écran 2024-08-20 202156](https://github.com/user-attachments/assets/f98aab8f-e459-47cc-9c8e-b13c28beae09)
+
 ## Installation 🛠️
 
 To try the ft_printf function : 
